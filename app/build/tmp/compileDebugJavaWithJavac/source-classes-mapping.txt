@@ -1,0 +1,51 @@
+edu/upb/lp/progra/BugWorld/Cell.java
+ edu.upb.lp.progra.BugWorld.Cell
+edu/upb/lp/progra/EscapeHouse/Enemigo.java
+ edu.upb.lp.progra.EscapeHouse.Enemigo
+edu/upb/lp/progra/EscapeHouse/Gael.java
+ edu.upb.lp.progra.EscapeHouse.Gael
+edu/upb/lp/progra/BugWorld/BugWorldUI.java
+ edu.upb.lp.progra.BugWorld.BugWorldUI
+edu/upb/lp/androidInternalFiles/MyTextView.java
+ edu.upb.lp.androidInternalFiles.MyTextView
+edu/upb/lp/progra/EscapeHouse/Personaje.java
+ edu.upb.lp.progra.EscapeHouse.Personaje
+edu/upb/lp/progra/EscapeHouse/EscapeHouse.java
+ edu.upb.lp.progra.EscapeHouse.EscapeHouse
+edu/upb/lp/progra/adapterFiles/UI.java
+ edu.upb.lp.progra.adapterFiles.UI
+edu/upb/lp/progra/BugWorld/Bug.java
+ edu.upb.lp.progra.BugWorld.Bug
+edu/upb/lp/progra/EscapeHouse/Adrian.java
+ edu.upb.lp.progra.EscapeHouse.Adrian
+edu/upb/lp/progra/adapterFiles/GameAdapter.java
+ edu.upb.lp.progra.adapterFiles.GameAdapter
+edu/upb/lp/progra/EscapeHouse/Jugador.java
+ edu.upb.lp.progra.EscapeHouse.Jugador
+edu/upb/lp/progra/EscapeHouse/Casilla.java
+ edu.upb.lp.progra.EscapeHouse.Casilla
+edu/upb/lp/androidInternalFiles/AndroidGameActivity.java
+ edu.upb.lp.androidInternalFiles.AndroidGameActivity
+ edu.upb.lp.androidInternalFiles.AndroidGameActivity$1
+edu/upb/lp/progra/EscapeHouse/Suicida.java
+ edu.upb.lp.progra.EscapeHouse.Suicida
+edu/upb/lp/genericgame/BuildConfig.java
+ edu.upb.lp.genericgame.BuildConfig
+edu/upb/lp/progra/adapterFiles/TextListener.java
+ edu.upb.lp.progra.adapterFiles.TextListener
+edu/upb/lp/progra/adapterFiles/AndroidGameGUI.java
+ edu.upb.lp.progra.adapterFiles.AndroidGameGUI
+edu/upb/lp/progra/EscapeHouse/NotSelectedPlayerException.java
+ edu.upb.lp.progra.EscapeHouse.NotSelectedPlayerException
+edu/upb/lp/progra/EscapeHouse/Zein.java
+ edu.upb.lp.progra.EscapeHouse.Zein
+edu/upb/lp/progra/BugWorld/ScoreManager.java
+ edu.upb.lp.progra.BugWorld.ScoreManager
+edu/upb/lp/progra/EscapeHouse/Centinela.java
+ edu.upb.lp.progra.EscapeHouse.Centinela
+edu/upb/lp/progra/EscapeHouse/Patrulla.java
+ edu.upb.lp.progra.EscapeHouse.Patrulla
+edu/upb/lp/progra/BugWorld/BugWorld.java
+ edu.upb.lp.progra.BugWorld.BugWorld
+edu/upb/lp/progra/EscapeHouse/EscapeHouseUI.java
+ edu.upb.lp.progra.EscapeHouse.EscapeHouseUI
