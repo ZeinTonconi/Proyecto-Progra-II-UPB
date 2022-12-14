@@ -69,4 +69,8 @@ public class EscapeHouseUI implements UI {
     public void eliminarTexto(String text) {
         gui.removeTextField(text);
     }
+
+    public void drawOnCell(int fila, int columna, String imagen) {
+        gui.setImageOnCell(fila,columna,imagen);
+    }
 }

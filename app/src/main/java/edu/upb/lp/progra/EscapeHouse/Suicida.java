@@ -1,8 +1,8 @@
 package edu.upb.lp.progra.EscapeHouse;
 
 public class Suicida extends Enemigo{
-    public Suicida(String img){
-        super(img);
+    public Suicida(EscapeHouse game,String img,int row,int column){
+        super(game,img,row,column);
     }
 
     @Override

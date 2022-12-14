@@ -2,8 +2,8 @@ package edu.upb.lp.progra.EscapeHouse;
 
 public class Zein extends Jugador {
 
-    public Zein(String img){
-        super(img);
+    public Zein(EscapeHouse game,String img,int row,int column){
+        super(game,img,row,column);
     }
 
     @Override

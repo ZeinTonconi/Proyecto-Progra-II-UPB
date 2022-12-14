@@ -1,8 +1,8 @@
 package edu.upb.lp.progra.EscapeHouse;
 
 public class Gael extends Jugador{
-    public Gael(String img) {
-        super(img);
+    public Gael(EscapeHouse game, String img,int row,int column) {
+        super(game,img,row,column);
     }
 
     @Override

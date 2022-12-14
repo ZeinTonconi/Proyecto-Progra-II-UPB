@@ -1,8 +1,8 @@
 package edu.upb.lp.progra.EscapeHouse;
 
 public class Adrian extends Jugador{
-    public Adrian(String img){
-        super(img);
+    public Adrian(EscapeHouse game, String img,int row,int column){
+        super(game,img,row,column);
     }
     @Override
     public String habilidadToString() {

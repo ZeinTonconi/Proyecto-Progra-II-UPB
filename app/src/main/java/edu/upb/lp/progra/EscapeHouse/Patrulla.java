@@ -1,8 +1,8 @@
 package edu.upb.lp.progra.EscapeHouse;
 
 public class Patrulla extends Enemigo {
-    public Patrulla(String img){
-        super(img);
+    public Patrulla(EscapeHouse game,String img,int row,int column){
+        super(game,img,row,column);
     }
 
     @Override

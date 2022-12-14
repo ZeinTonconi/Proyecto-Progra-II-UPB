@@ -1,8 +1,8 @@
 package edu.upb.lp.progra.EscapeHouse;
 
 public class Enemigo extends Personaje {
-         public Enemigo(String img){
-             super(img);
+         public Enemigo(EscapeHouse game,String img,int row,int column){
+             super(game,img,row,column);
          }
 
     @Override
